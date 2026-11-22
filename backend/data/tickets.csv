@@ -1,0 +1,102 @@
+
+text,category
+"My credit card was charged twice for one order",billing
+"Money was deducted but my order was not confirmed",billing
+"I have not received my subscription refund",billing
+"My monthly subscription payment failed",billing
+"I want to cancel my recurring subscription payment",billing
+"The invoice shows an incorrect amount",billing
+"I was charged an extra fee on my account",billing
+"My payment is still showing as pending",billing
+"I paid for the service but the balance was not updated",billing
+"Please explain the transaction on my bank statement",billing
+"My refund request has not been processed",billing
+"The checkout page charged me two times",billing
+"I cannot download my payment receipt",billing
+"My subscription renewal amount is incorrect",billing
+"I received a duplicate invoice for the same purchase",billing
+"The payment gateway deducted money twice",billing
+"I want to update my billing information",billing
+"My card payment was declined unexpectedly",billing
+"The discount was not applied to my final bill",billing
+"I need a copy of my previous payment invoice",billing
+"I forgot the password for my account",account
+"I am unable to log into my profile",account
+"Please help me reset my login credentials",account
+"My user account has been locked",account
+"I want to change my registered email address",account
+"I cannot update my profile information",account
+"How can I change my account password",account
+"I am not receiving the account verification email",account
+"Please help me recover my username",account
+"My login session keeps expiring",account
+"I want to deactivate my user account",account
+"I cannot create a new account",account
+"My account details are incorrect",account
+"I need to change my registered phone number",account
+"How do I update my profile picture",account
+"My account registration is not completing",account
+"I cannot access my account settings",account
+"Please help me verify my new email address",account
+"My account was temporarily disabled",account
+"I want to delete my account permanently",account
+"The website is not loading on my browser",technical
+"The mobile application crashes when I open it",technical
+"I am getting a server error on the dashboard",technical
+"The page takes too long to load",technical
+"Search functionality is not working",technical
+"The application displays a blank screen",technical
+"I cannot upload a document to the portal",technical
+"The website is showing an unexpected error",technical
+"The dashboard is not displaying any data",technical
+"My application keeps freezing during use",technical
+"The download button does not respond",technical
+"I am unable to submit the online form",technical
+"The website is not compatible with my browser",technical
+"Images are not loading on the product page",technical
+"The application stopped working after the update",technical
+"I cannot connect to the service",technical
+"The notification feature is not working",technical
+"The portal is running very slowly",technical
+"I am getting an error while saving my changes",technical
+"The API request is returning an internal server error",technical
+"I received an alert about an unknown login",security
+"Someone accessed my account without permission",security
+"I think my account has been hacked",security
+"I noticed suspicious activity on my profile",security
+"An unknown device is connected to my account",security
+"I received a password change notification I did not request",security
+"My account is being accessed from an unknown location",security
+"I suspect someone has stolen my login credentials",security
+"An unauthorized transaction appeared on my account",security
+"I received a suspicious password reset link",security
+"Someone changed my account details without permission",security
+"I think this email is a phishing attempt",security
+"My account shows an unfamiliar active session",security
+"I found an unknown login in my security history",security
+"Someone is trying to access my account repeatedly",security
+"My security verification code was requested unexpectedly",security
+"I received a suspicious attachment from an unknown sender",security
+"My account recovery email was changed without my consent",security
+"I suspect a data breach involving my account",security
+"An unknown person is using my account",security
+"What are your customer support working hours",other
+"Where is your company office located",other
+"I want to know more about your services",other
+"Can you share your product brochure",other
+"Do you provide services in my city",other
+"I would like to speak with a customer representative",other
+"Where can I find your user documentation",other
+"Please share your official website address",other
+"Do you offer training for new customers",other
+"I want information about your company",other
+"How can I contact your sales department",other
+"Can you provide details about your service plans",other
+"I would like to request a product demonstration",other
+"Where can I find the frequently asked questions",other
+"Do you provide support during weekends",other
+"Please share your latest service announcement",other
+"I need information about your business locations",other
+"Can I get a copy of your product catalogue",other
+"Who should I contact for general inquiries",other
+"I would like to know about your company policies",other
